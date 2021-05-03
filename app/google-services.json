@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "52999677838",
+    "project_id": "finaltry-20d98",
+    "storage_bucket": "finaltry-20d98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52999677838:android:a3508b347ca863f67366df",
+        "android_client_info": {
+          "package_name": "com.example.finaltry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52999677838-1m0mitnpqfl99gnvric33qigt2cn11ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1QcSCLMCspSoGFiOhKFPqujVkkymoNis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52999677838-1m0mitnpqfl99gnvric33qigt2cn11ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
